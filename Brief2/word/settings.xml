@@ -4,14 +4,124 @@
             xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
             xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
             xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-            xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15">
-    <w:zoom w:percent="108"/>
+            xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+            xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15 w16se">
+    <w:zoom w:percent="100"/>
     <w:removePersonalInformation/>
     <w:removeDateAndTime/>
+    <w:attachedTemplate r:id="rId1"/>
     <w:stylePaneFormatFilter w:val="3F01" w:allStyles="1" w:customStyles="0" w:latentStyles="0" w:stylesInUse="0" w:headingStyles="0"
                              w:numberingStyles="0" w:tableStyles="0" w:directFormattingOnRuns="1" w:directFormattingOnParagraphs="1"
                              w:directFormattingOnNumbering="1" w:directFormattingOnTables="1" w:clearFormatting="1" w:top3HeadingStyles="1"
                              w:visibleStyles="0" w:alternateStyleNames="0"/>
+    <w:mailMerge>
+        <w:mainDocumentType w:val="formLetters"/>
+        <w:linkToQuery/>
+        <w:dataType w:val="native"/>
+        <w:connectString
+                w:val="Provider=Microsoft.ACE.OLEDB.12.0;User ID=Admin;Data Source=C:\Users\ctwirnsperger\Desktop\neu.xlsx;Mode=Read;Extended Properties=&quot;HDR=YES;IMEX=1;&quot;;Jet OLEDB:System database=&quot;&quot;;Jet OLEDB:Registry Path=&quot;&quot;;Jet OLEDB:Engine Type=37;Jet OLEDB:Database Locking Mode=0;Jet OLEDB:Global Partial Bulk Ops=2;Jet OLEDB:Global Bulk Transactions=1;Jet OLEDB:New Database Password=&quot;&quot;;Jet OLEDB:Create System Database=False;Jet OLEDB:Encrypt Database=False;Jet OLEDB:Don't Copy Locale on Compact=False;Jet OLEDB:Compact Without Replica Repair=False;Jet OLEDB:SFP=False;Jet OLEDB:Support Complex Data=False;Jet OLEDB:Bypass UserInfo Validation=False;Jet OLEDB:Limited DB Caching=False;Jet OLEDB:Bypass ChoiceField Validation=False"/>
+        <w:query w:val="SELECT * FROM `Sheet1$`"/>
+        <w:dataSource r:id="rId2"/>
+        <w:activeRecord w:val="0"/>
+        <w:odso>
+            <w:udl w:val="Provider=Microsoft.ACE.OLEDB.12.0;User ID=Admin;Data Source=C:\Users\ctwirnsperger\Desktop\neu.xlsx;Mode=Read;Extended Properties=&quot;HDR=YES;IMEX=1;&quot;;Jet OLEDB:System database=&quot;&quot;;Jet OLEDB:Registry Path=&quot;&quot;;Jet OLEDB:Engine Type=37;Jet OLEDB:Database Locking Mode=0;Jet OLEDB:Global Partial Bulk Ops=2;Jet OLEDB:Global Bulk Transactions=1;Jet OLEDB:New Database Password=&quot;&quot;;Jet OLEDB:Create System Database=False;Jet OLEDB:Encrypt Database=False;Jet OLEDB:Don't Copy Locale on Compact=False;Jet OLEDB:Compact Without Replica Repair=False;Jet OLEDB:SFP=False;Jet OLEDB:Support Complex Data=False;Jet OLEDB:Bypass UserInfo Validation=False;Jet OLEDB:Limited DB Caching=False;Jet OLEDB:Bypass ChoiceField Validation=False"/>
+            <w:table w:val="Sheet1$"/>
+            <w:src r:id="rId3"/>
+            <w:colDelim w:val="9"/>
+            <w:type w:val="database"/>
+            <w:fHdr/>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+            <w:fieldMapData>
+                <w:lid w:val="de-DE"/>
+            </w:fieldMapData>
+        </w:odso>
+    </w:mailMerge>
     <w:defaultTabStop w:val="709"/>
     <w:autoHyphenation/>
     <w:hyphenationZone w:val="425"/>
@@ -21,7 +131,7 @@
     <w:noPunctuationKerning/>
     <w:characterSpacingControl w:val="doNotCompress"/>
     <w:hdrShapeDefaults>
-        <o:shapedefaults v:ext="edit" spidmax="14337"/>
+        <o:shapedefaults v:ext="edit" spidmax="4097"/>
     </w:hdrShapeDefaults>
     <w:footnotePr>
         <w:footnote w:id="-1"/>
@@ -32,13 +142,14 @@
         <w:endnote w:id="0"/>
     </w:endnotePr>
     <w:compat>
-        <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word" w:val="14"/>
+        <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word" w:val="15"/>
         <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
         <w:compatSetting w:name="enableOpenTypeFeatures" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
         <w:compatSetting w:name="doNotFlipMirrorIndents" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
+        <w:compatSetting w:name="differentiateMultirowTableHeaders" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
     </w:compat>
     <w:rsids>
-        <w:rsidRoot w:val="00D555FA"/>
+        <w:rsidRoot w:val="008347B9"/>
         <w:rsid w:val="000142A7"/>
         <w:rsid w:val="000472E6"/>
         <w:rsid w:val="000729E9"/>
@@ -71,6 +182,7 @@
         <w:rsid w:val="00360BCE"/>
         <w:rsid w:val="003874C4"/>
         <w:rsid w:val="00391489"/>
+        <w:rsid w:val="004558AF"/>
         <w:rsid w:val="004640D1"/>
         <w:rsid w:val="004662DA"/>
         <w:rsid w:val="0048331B"/>
@@ -111,6 +223,7 @@
         <w:rsid w:val="00800689"/>
         <w:rsid w:val="00807C87"/>
         <w:rsid w:val="00822363"/>
+        <w:rsid w:val="008347B9"/>
         <w:rsid w:val="00834A51"/>
         <w:rsid w:val="00847E1C"/>
         <w:rsid w:val="0085508C"/>
@@ -168,6 +281,7 @@
         <w:rsid w:val="00D6045A"/>
         <w:rsid w:val="00D94D16"/>
         <w:rsid w:val="00D97D21"/>
+        <w:rsid w:val="00DA307F"/>
         <w:rsid w:val="00DA4EB0"/>
         <w:rsid w:val="00DA5575"/>
         <w:rsid w:val="00DA64C9"/>
@@ -206,7 +320,7 @@
                         w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink"/>
     <w:doNotIncludeSubdocsInStats/>
     <w:shapeDefaults>
-        <o:shapedefaults v:ext="edit" spidmax="14337"/>
+        <o:shapedefaults v:ext="edit" spidmax="4097"/>
         <o:shapelayout v:ext="edit">
             <o:idmap v:ext="edit" data="1"/>
         </o:shapelayout>

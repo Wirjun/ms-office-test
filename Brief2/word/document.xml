@@ -32,8 +32,7 @@
                         <w:tcW w:w="4541" w:type="dxa"/>
                         <w:vAlign w:val="bottom"/>
                     </w:tcPr>
-                    <w:bookmarkStart w:id="0" w:name="_GoBack"/>
-                    <w:bookmarkEnd w:id="0"/>
+                    <w:bookmarkStart w:id="0" w:name="_GoBack" w:colFirst="0" w:colLast="0"/>
                     <w:p w:rsidR="00E41C68" w:rsidRDefault="00DA307F" w:rsidP="0048331B">
                         <w:pPr>
                             <w:pStyle w:val="Empfnger"/>
@@ -65,27 +64,14 @@
                         <w:r w:rsidR="00E41C68">
                             <w:instrText xml:space="preserve"> IF </w:instrText>
                         </w:r>
-                        <w:r>
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r>
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_ZEILE2 </w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r w:rsidR="008347B9">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE2»</w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE2 ">
+                            <w:r w:rsidR="008347B9">
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE2»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="00E41C68">
                             <w:instrText>&lt;&gt; "" "</w:instrText>
                         </w:r>
@@ -97,27 +83,14 @@
                                 <w:noProof/>
                             </w:rPr>
                         </w:pPr>
-                        <w:r>
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r>
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_ZEILE2 </w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r w:rsidR="008347B9">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE2»</w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE2 ">
+                            <w:r w:rsidR="008347B9">
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE2»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="00E41C68">
                             <w:instrText xml:space="preserve">" "" </w:instrText>
                         </w:r>
@@ -168,27 +141,14 @@
                         <w:r w:rsidR="00E41C68">
                             <w:instrText xml:space="preserve"> IF </w:instrText>
                         </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_ZEILE3 </w:instrText>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE3»</w:instrText>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE3 ">
+                            <w:r>
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE3»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="00E41C68">
                             <w:instrText>&lt;&gt; "" "</w:instrText>
                         </w:r>
@@ -200,27 +160,14 @@
                                 <w:noProof/>
                             </w:rPr>
                         </w:pPr>
-                        <w:r>
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r>
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_ZEILE3 </w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r w:rsidR="008347B9">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE3»</w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE3 ">
+                            <w:r w:rsidR="008347B9">
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE3»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="00E41C68">
                             <w:instrText xml:space="preserve">" "" </w:instrText>
                         </w:r>
@@ -271,27 +218,14 @@
                         <w:r w:rsidR="00E41C68">
                             <w:instrText xml:space="preserve"> IF </w:instrText>
                         </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_ZEILE4 </w:instrText>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE4»</w:instrText>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE4 ">
+                            <w:r>
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE4»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="00E41C68">
                             <w:instrText>&lt;&gt; "" "</w:instrText>
                         </w:r>
@@ -303,27 +237,14 @@
                                 <w:noProof/>
                             </w:rPr>
                         </w:pPr>
-                        <w:r>
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r>
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_ZEILE4 </w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r w:rsidR="008347B9">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE4»</w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE4 ">
+                            <w:r w:rsidR="008347B9">
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE4»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="00E41C68">
                             <w:instrText xml:space="preserve">" "" </w:instrText>
                         </w:r>
@@ -374,30 +295,14 @@
                         <w:r w:rsidR="00E41C68">
                             <w:instrText xml:space="preserve"> IF </w:instrText>
                         </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_Z</w:instrText>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:instrText xml:space="preserve">EILE5 </w:instrText>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE5»</w:instrText>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE5 ">
+                            <w:r>
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE5»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="00E41C68">
                             <w:instrText>&lt;&gt; "" "</w:instrText>
                         </w:r>
@@ -409,27 +314,14 @@
                                 <w:noProof/>
                             </w:rPr>
                         </w:pPr>
-                        <w:r>
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r>
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_ZEILE5 </w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r w:rsidR="008347B9">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE5»</w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE5 ">
+                            <w:r w:rsidR="008347B9">
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE5»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="00E41C68">
                             <w:instrText xml:space="preserve">" "" </w:instrText>
                         </w:r>
@@ -480,27 +372,14 @@
                         <w:r w:rsidR="0090079F">
                             <w:instrText xml:space="preserve"> IF </w:instrText>
                         </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_ZEILE6 </w:instrText>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE6»</w:instrText>
-                        </w:r>
-                        <w:r w:rsidR="00DA307F">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE6 ">
+                            <w:r>
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE6»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="0090079F">
                             <w:instrText>&lt;&gt; "" "</w:instrText>
                         </w:r>
@@ -512,27 +391,14 @@
                                 <w:noProof/>
                             </w:rPr>
                         </w:pPr>
-                        <w:r>
-                            <w:fldChar w:fldCharType="begin"/>
-                        </w:r>
-                        <w:r>
-                            <w:instrText xml:space="preserve"> MERGEFIELD FENSTERKUVERT_ZEILE6 </w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:fldChar w:fldCharType="separate"/>
-                        </w:r>
-                        <w:r w:rsidR="008347B9">
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:instrText>«FENSTERKUVERT_ZEILE6»</w:instrText>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:noProof/>
-                            </w:rPr>
-                            <w:fldChar w:fldCharType="end"/>
-                        </w:r>
+                        <w:fldSimple w:instr=" MERGEFIELD FENSTERKUVERT_ZEILE6 ">
+                            <w:r w:rsidR="008347B9">
+                                <w:rPr>
+                                    <w:noProof/>
+                                </w:rPr>
+                                <w:instrText>«FENSTERKUVERT_ZEILE6»</w:instrText>
+                            </w:r>
+                        </w:fldSimple>
                         <w:r w:rsidR="0090079F">
                             <w:instrText xml:space="preserve">" "" </w:instrText>
                         </w:r>
@@ -613,6 +479,7 @@
                 </w:tc>
             </w:tr>
         </w:tbl>
+        <w:bookmarkEnd w:id="0"/>
         <w:p w:rsidR="00B55D7E" w:rsidRDefault="00E41C68" w:rsidP="00B55D7E">
             <w:pPr>
                 <w:pStyle w:val="DokumentID"/>
@@ -623,75 +490,36 @@
             <w:r w:rsidR="00B55D7E" w:rsidRPr="00AA1611">
                 <w:t>(</w:t>
             </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:instrText xml:space="preserve"> USERINITIALS  \* MERGEFORMAT </w:instrText>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:t>CW</w:t>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" USERINITIALS  \* MERGEFORMAT ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:t>CW</w:t>
+                </w:r>
+            </w:fldSimple>
             <w:r w:rsidR="00B55D7E" w:rsidRPr="00AA1611">
                 <w:t xml:space="preserve">, </w:t>
             </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:instrText xml:space="preserve"> MERGEFIELD PERSONENNR </w:instrText>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:t>«PERSONENNR»</w:t>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" MERGEFIELD PERSONENNR ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:t>«PERSONENNR»</w:t>
+                </w:r>
+            </w:fldSimple>
             <w:r w:rsidR="00B55D7E" w:rsidRPr="00AA1611">
                 <w:t xml:space="preserve">, </w:t>
             </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:instrText xml:space="preserve"> FILENAME  \* MERGEFORMAT </w:instrText>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:t>Dokument1</w:t>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" FILENAME  \* MERGEFORMAT ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:t>Dokument1</w:t>
+                </w:r>
+            </w:fldSimple>
             <w:r w:rsidR="00B55D7E" w:rsidRPr="00AA1611">
                 <w:t>)</w:t>
             </w:r>
@@ -705,27 +533,14 @@
             </w:r>
         </w:p>
         <w:p w:rsidR="009C7143" w:rsidRPr="00AA1611" w:rsidRDefault="00DA307F" w:rsidP="00CF7870">
-            <w:r>
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r>
-                <w:instrText xml:space="preserve"> MERGEFIELD BRIEFANREDE </w:instrText>
-            </w:r>
-            <w:r>
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:t>«BRIEFANREDE»</w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" MERGEFIELD BRIEFANREDE ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:t>«BRIEFANREDE»</w:t>
+                </w:r>
+            </w:fldSimple>
         </w:p>
         <w:p w:rsidR="009C7143" w:rsidRDefault="009C7143" w:rsidP="00CF7870">
             <w:pPr>
@@ -781,27 +596,14 @@
             <w:r w:rsidR="00CF7870">
                 <w:instrText xml:space="preserve"> IF </w:instrText>
             </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:instrText xml:space="preserve"> MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE2 </w:instrText>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE2»</w:instrText>
-            </w:r>
-            <w:r w:rsidR="00DA307F">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE2 ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE2»</w:instrText>
+                </w:r>
+            </w:fldSimple>
             <w:r w:rsidR="00CF7870">
                 <w:instrText>&lt;&gt; "" "</w:instrText>
             </w:r>
@@ -813,27 +615,14 @@
                     <w:noProof/>
                 </w:rPr>
             </w:pPr>
-            <w:r>
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r>
-                <w:instrText xml:space="preserve"> MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE2 </w:instrText>
-            </w:r>
-            <w:r>
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE2»</w:instrText>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE2 ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE2»</w:instrText>
+                </w:r>
+            </w:fldSimple>
             <w:r w:rsidR="00CF7870">
                 <w:instrText xml:space="preserve">" "" </w:instrText>
             </w:r>
@@ -913,27 +702,14 @@
                     <w:noProof/>
                 </w:rPr>
             </w:pPr>
-            <w:r>
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r>
-                <w:instrText xml:space="preserve"> MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE3 </w:instrText>
-            </w:r>
-            <w:r>
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE3»</w:instrText>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE3 ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE3»</w:instrText>
+                </w:r>
+            </w:fldSimple>
             <w:r w:rsidR="00CF7870">
                 <w:instrText xml:space="preserve">" "" </w:instrText>
             </w:r>
@@ -1013,27 +789,14 @@
                     <w:noProof/>
                 </w:rPr>
             </w:pPr>
-            <w:r>
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r>
-                <w:instrText xml:space="preserve"> MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE4 </w:instrText>
-            </w:r>
-            <w:r>
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE4»</w:instrText>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE4 ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE4»</w:instrText>
+                </w:r>
+            </w:fldSimple>
             <w:r w:rsidR="00CF7870">
                 <w:instrText xml:space="preserve">" "" </w:instrText>
             </w:r>
@@ -1113,27 +876,14 @@
                     <w:noProof/>
                 </w:rPr>
             </w:pPr>
-            <w:r>
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r>
-                <w:instrText xml:space="preserve"> MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE5 </w:instrText>
-            </w:r>
-            <w:r>
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE5»</w:instrText>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE5 ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE5»</w:instrText>
+                </w:r>
+            </w:fldSimple>
             <w:r w:rsidR="00ED0632">
                 <w:instrText xml:space="preserve">" "" </w:instrText>
             </w:r>
@@ -1197,7 +947,7 @@
             <w:r w:rsidR="00ED0632">
                 <w:instrText xml:space="preserve"> MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE6 </w:instrText>
             </w:r>
-            <w:r w:rsidR="008347B9">
+            <w:r>
                 <w:fldChar w:fldCharType="separate"/>
             </w:r>
             <w:r w:rsidR="008347B9">
@@ -1222,34 +972,18 @@
                     <w:noProof/>
                 </w:rPr>
             </w:pPr>
-            <w:r>
-                <w:fldChar w:fldCharType="begin"/>
-            </w:r>
-            <w:r>
-                <w:instrText xml:space="preserve"> MERGEFIELD </w:instrText>
-            </w:r>
-            <w:r>
-                <w:instrText xml:space="preserve">MITARBEITERBRIEFSIGNATUR_ZEILE6 </w:instrText>
-            </w:r>
-            <w:r>
-                <w:fldChar w:fldCharType="separate"/>
-            </w:r>
-            <w:r w:rsidR="008347B9">
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE6»</w:instrText>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:noProof/>
-                </w:rPr>
-                <w:fldChar w:fldCharType="end"/>
-            </w:r>
+            <w:fldSimple w:instr=" MERGEFIELD MITARBEITERBRIEFSIGNATUR_ZEILE6 ">
+                <w:r w:rsidR="008347B9">
+                    <w:rPr>
+                        <w:noProof/>
+                    </w:rPr>
+                    <w:instrText>«MITARBEITERBRIEFSIGNATUR_ZEILE6»</w:instrText>
+                </w:r>
+            </w:fldSimple>
             <w:r w:rsidR="00ED0632">
                 <w:instrText xml:space="preserve">" "" </w:instrText>
             </w:r>
-            <w:r w:rsidR="008347B9">
+            <w:r w:rsidR="00E26061">
                 <w:fldChar w:fldCharType="separate"/>
             </w:r>
         </w:p>
